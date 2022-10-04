@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1633431109 source:c:\users\comeb\documents\code\programmes\fonctions\fonctions calcul.c
+	<stdio.h>
+	<stdlib.h>
+
+1633430171 source:c:\users\comeb\documents\code\programmes\fonctions\fonctions get.c
+	<stdlib.h>
+	<stdio.h>
+
+1633510204 source:c:\users\comeb\documents\code\programmes\exos\exo 801\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Fonctions get.h"
+
+1633510204 c:\users\comeb\documents\code\programmes\exos\exo 801\fonctions get.h
+
