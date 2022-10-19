@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1634108758 source:c:\users\comeb\documents\code\programmes\exos\exo 1003\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634107713 source:c:\users\comeb\documents\code\programmes\exos\exo 1003\sous programmes.c
+	<stdio.h>
+	<stdlib.h>
+
+1634108964 source:c:\users\comeb\documents\cours\algo\exos algo chap5 côme boutevin\exo 1003\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634107713 source:c:\users\comeb\documents\cours\algo\exos algo chap5 côme boutevin\exo 1003\sous programmes.c
+	<stdio.h>
+	<stdlib.h>
+
+1634108964 source:c:\users\comeb\documents\cours\ingé 1\1) algo\exo c semaines\exos algo chap5 côme boutevin\exo 1003\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634107713 source:c:\users\comeb\documents\cours\ingé 1\1) algo\exo c semaines\exos algo chap5 côme boutevin\exo 1003\sous programmes.c
+	<stdio.h>
+	<stdlib.h>
+
