@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634574346 source:c:\users\comeb\documents\code\programmes\exos\exo 902\main.c
+	<stdio.h>
+	<stdlib.h>
+
