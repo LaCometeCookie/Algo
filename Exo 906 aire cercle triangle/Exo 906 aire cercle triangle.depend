@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634596073 source:c:\users\comeb\documents\code\programmes\exos\exo 906 aire cercle triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
