@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668779272 source:c:\users\comeb\documents\cours\ingé 1\1) algo\exo c semaines\exos algo chap7 côme boutevin\exo 1101\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
